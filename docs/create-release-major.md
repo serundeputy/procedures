@@ -24,6 +24,6 @@ Steps to create a MAJOR release
 ## Post-follow-up-release tasks
 
 - [ ] Update the docker image to the latest @serundeputy
-- [ ] Push the bug-fix release to the Pantheon repository
+- [ ] Push the release to the Pantheon repository
 - [ ] Send a newsletter via MailChimp @jenlampton (someome else?)
 - [ ] ...???
